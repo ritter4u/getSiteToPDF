@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ede289f-204c-4ec5-803b-0e79a18f2f02" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/STP.py" afterPath="$PROJECT_DIR$/src/STP.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="getSiteToPDF.iws" />
@@ -323,7 +322,13 @@
       <option name="project" value="LOCAL" />
       <updated>1440125545900</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add Module pdf">
+      <created>1440126119491</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1440126119491</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -364,7 +369,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialize" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialize" />
+    <MESSAGE value="add Module pdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Module pdf" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
